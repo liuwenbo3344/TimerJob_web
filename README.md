@@ -6,8 +6,7 @@ ELADMIN 前端源码
 
 |     |   后端源码  |   前端源码  |
 |---  |--- | --- |
-|  github   |  https://github.com/elunez/eladmin   |  https://github.com/elunez/eladmin-web   |
-|  码云   |  https://gitee.com/elunez/eladmin   |  https://gitee.com/elunez/eladmin-web   |
+|  github   |  https://github.com/liuwenbo3344/TimerJob  |  https://github.com/liuwenbo3344/TimerJob_web   |
 
 #### 开发文档
 [https://el-admin.vip](https://el-admin.vip)
@@ -63,4 +62,4 @@ https://www.ydyno.com/archives/1219.html
 
 #### 反馈交流
 
-- QQ交流群：一群：<strike>891137268</strike> 已满、二群：947578238
+- QQ邮件：一群：<strike>56810290@qq.com</strike> 
